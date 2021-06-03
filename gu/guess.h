@@ -1,3 +1,5 @@
+//code to Vrushtee 
+
 #include<iostream>
 #include<string>
 #include<cstring>
