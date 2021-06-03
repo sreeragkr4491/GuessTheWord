@@ -143,6 +143,7 @@
     <ClCompile Include="guess.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="vrushtee.cpp" />
+    <ClCompile Include="VrushTest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="guess.h" />

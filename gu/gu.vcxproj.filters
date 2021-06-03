@@ -24,6 +24,9 @@
     <ClCompile Include="vrushtee.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="VrushTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="guess.h">
